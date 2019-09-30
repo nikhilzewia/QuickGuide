@@ -1,3 +1,4 @@
+##Installing Larvel in Windows, XAMPP locally
 1. Downloaded Larvel source zip file from the below link
 https://codeload.github.com/laravel/laravel/zip/master
 
