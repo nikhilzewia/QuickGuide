@@ -12,4 +12,5 @@ https://codeload.github.com/laravel/laravel/zip/master
   extension=php_ftp.dll
   `````
   > Check if these lines exist before adding
-6. Open CMD from the larvel folder [Inside] and run the command `php artisan key:generate`
+6. Added the .env file
+7. Open CMD from the larvel folder [Inside] and run the command `php artisan key:generate`
